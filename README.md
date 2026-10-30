@@ -20,6 +20,3 @@ Python, pandas/NumPy, scikit-learn, XGBoost, SHAP, FastAPI, LangChain/LangGraph,
 ## Currently learning
 
 DVC and basic MLOps workflows, more about evaluating LLM agents properly instead of eyeballing outputs.
-
----
-📫 More of my stuff: [castalkwithaish.com](http://www.castalkwithaish.com)
